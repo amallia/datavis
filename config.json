@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Queries",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://github.com/amallia/datavis/raw/main/embeddings.tsv",
+      "metadataPath": "https://github.com/amallia/datavis/raw/main/queries.tsv"
+    }
+  ]
+}
