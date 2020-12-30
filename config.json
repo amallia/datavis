@@ -3,8 +3,8 @@
     {
       "tensorName": "Queries",
       "tensorShape": [
-        1000,
-        50
+        502939,
+        2
       ],
       "tensorPath": "https://raw.githubusercontent.com/amallia/datavis/main/embeddings.tsv",
       "metadataPath": "https://raw.githubusercontent.com/amallia/datavis/main/queries.tsv"
