@@ -6,8 +6,8 @@
         1000,
         50
       ],
-      "tensorPath": "https://github.com/amallia/datavis/raw/main/embeddings.tsv",
-      "metadataPath": "https://github.com/amallia/datavis/raw/main/queries.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/amallia/datavis/main/embeddings.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/amallia/datavis/main/queries.tsv"
     }
   ]
 }
